@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+oldclient.egg-info/
+*.pyc
+*.swp
+build/
